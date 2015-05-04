@@ -1,3 +1,4 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "http://andrewsmedina.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "andrewsmedina.com"
+theme = "hugo-uno"
